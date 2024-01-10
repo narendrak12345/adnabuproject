@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T11:00:05 IST" name="Default suite" finished-at="2024-01-10T11:01:01 IST" duration-ms="56249">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T11:00:05 IST" name="Default test" finished-at="2024-01-10T11:01:01 IST" duration-ms="56249">
+      <class name="Tests.Searchproduct">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:00:05 IST" name="initialize" finished-at="2024-01-10T11:00:19 IST" duration-ms="14202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="ProductSearchandFilter()[pri:1, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:00:19 IST" name="ProductSearchandFilter" description="Login and search Product and Filtering the result" finished-at="2024-01-10T11:00:32 IST" duration-ms="12315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductSearchandFilter -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:00:32 IST" name="teardown" finished-at="2024-01-10T11:00:32 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:00:32 IST" name="initialize" finished-at="2024-01-10T11:00:37 IST" duration-ms="4760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="AddingandRemovingItemsfromtheShoppingCart()[pri:2, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:00:37 IST" name="AddingandRemovingItemsfromtheShoppingCart" description="Adding and Removing Items from the Shopping Cart" finished-at="2024-01-10T11:01:01 IST" duration-ms="23717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingandRemovingItemsfromtheShoppingCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Searchproduct@70abf9b0]" started-at="2024-01-10T11:01:01 IST" name="teardown" finished-at="2024-01-10T11:01:01 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.Searchproduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
